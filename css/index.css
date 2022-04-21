@@ -11,9 +11,9 @@ body{
     --main-color:#FDB900;
     --color_1:#E2E2E2;
     --color_2:#f2db8c;
-    --color_3:#895f24;
+    --color_3:#a80f09;
     --color_4:#AAABBC;
-    --color_5:#242321;
+    --color_5:#080a5f;
     --color_6:#0DD965;
     --color_7:#FFFEFF;
     --color_8:#73EAB2;
@@ -183,6 +183,7 @@ ul{
 }
 .card_02 .image img{
     width:120%;
+    height: auto;
     position: relative;
     left: -10%;
 }
